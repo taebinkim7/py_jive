@@ -23,7 +23,7 @@ VERSION = '0.1.2'
 
 # What packages are required for this module to be executed?
 REQUIRED = [
-    'numpy', 'scipy', 'pandas', 'seaborn', 'matplotlib', 'sklearn'
+    'numpy', 'scipy', 'pandas', 'seaborn', 'matplotlib', 'scikit-learn'
 ]
 
 # What packages are optional?
